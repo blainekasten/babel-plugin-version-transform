@@ -3,11 +3,14 @@ Replaces keyword `VERSION` with a stringified copy of the package.json version n
 
 ## Example
 
-### In
-
+###### Given this package.json
 ```json
-version: "1.0.0"
+{
+  version: "1.0.0"
+}
 ```
+
+### In
 
 ```js
 function log(data) {
@@ -16,10 +19,6 @@ function log(data) {
 ```
 
 ### Out
-
-```json
-version: "1.0.0"
-```
 
 ```js
 function log(data) {
