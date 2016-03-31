@@ -6,7 +6,7 @@ Replaces keyword `VERSION` with a stringified copy of the package.json version n
 ###### Given this package.json
 ```json
 {
-  version: "1.0.0"
+  "version": "1.0.0"
 }
 ```
 
