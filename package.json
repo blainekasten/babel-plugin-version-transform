@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-version-transform",
-  "version": "1.0.0-rc3",
+  "version": "1.0.0",
   "description": "A Babel plugin for injecting package version numbers.",
   "main": "lib",
   "scripts": {
