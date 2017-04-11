@@ -29,7 +29,7 @@ function log(data) {
 ## Installation
 
 ```sh
-$ npm install babel-plugin-transform-define
+$ npm install babel-plugin-version-transform
 ```
 
 ## Usage
