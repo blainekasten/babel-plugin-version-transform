@@ -1,7 +1,7 @@
 import _path from 'path';
 
 const packagePath = _path.resolve(process.cwd(), './package.json');
-const { version } = require(packagePath);
+const {version} = require(packagePath);
 
 export default function versionTransform() {
   return {
